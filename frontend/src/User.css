@@ -1,0 +1,22 @@
+
+.user {
+    display: flex;
+    justify-content: space-between;
+    margin: 10%; 
+}
+.follow{
+
+    padding: 10px;
+}
+.user h1,
+.user h4 {
+    display: block; /* Display headings on separate lines */
+}
+.uploadtext{
+    margin: 10%;
+    border: none;
+    width: 500%;
+}
+.text{
+    
+}
